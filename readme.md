@@ -45,6 +45,14 @@ with python
 pull source from github
 open project in PyCharm
 from PyCharm open requirements.txt file and install required packages
+ cd contactbook/
+python3 manage.py runserver
+Click on link: Starting development server at http://127.0.0.1:8000/
+Web browser will be open, insert link: http://127.0.0.1:8000/admin/ on the web browser. 
+Username: admi
+Password: admin
+Open Contacts or Persons and add a new entry, click save 
+
 ```
 
 
